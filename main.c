@@ -7,6 +7,10 @@ int main() {
         i=3;
     }
     int p=3;
+    if (p==3)
+    {
+        i=5;
+    }
     printf("%d\n",p);
     printf("%d\n",i);
     printf("change\n");
