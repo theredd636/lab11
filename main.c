@@ -6,6 +6,8 @@ int main() {
     {
         i=3;
     }
+    int p=3;
+    printf("%d\n",p);
     printf("%d\n",i);
     printf("change\n");
     return 0;
